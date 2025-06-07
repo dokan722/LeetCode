@@ -1,0 +1,8 @@
+.vs/
+obj/
+bin/
+.idea/
+cmake-build-debug/
+.idea/
+.venv/
+__pycache__/
