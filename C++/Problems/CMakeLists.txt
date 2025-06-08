@@ -10,4 +10,10 @@ add_executable(Problems main.cpp
         Problems/problem_1.h
         resources.cpp
         resources.h
+        Problems/problem_3.cpp
+        Problems/problem_3.h
+        Problems/problem_2.cpp
+        Problems/problem_2.h
+        Problems/problem_386.cpp
+        Problems/problem_386.h
 )

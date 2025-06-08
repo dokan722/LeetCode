@@ -8,7 +8,7 @@ class Problem1(Problem):
         expected = [0, 1]
         result = self.twoSum(nums, target)
 
-        return expected[0] == result[0] and expected[1] == result[1];
+        return expected[0] == result[0] and expected[1] == result[1]
 
     def twoSum(self, nums, target):
         sumDic = {}
