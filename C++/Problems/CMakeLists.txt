@@ -20,4 +20,6 @@ add_executable(Problems main.cpp
         Problems/problem_440.h
         Problems/problem_9.cpp
         Problems/problem_9.h
+        Problems/problem_3442.cpp
+        Problems/problem_3442.h
 )
