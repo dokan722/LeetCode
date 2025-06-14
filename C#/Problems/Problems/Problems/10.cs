@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problems.Problems
 {
+    // NOT SOLVED
     public class _10 : IProblem
     {
         public bool Test()
