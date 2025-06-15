@@ -30,4 +30,14 @@ add_executable(Problems main.cpp
         Problems/problem_2616.h
         Problems/problem_11.cpp
         Problems/problem_11.h
+        Problems/problem_3396.cpp
+        Problems/problem_3396.h
+        Problems/problem_1432.cpp
+        Problems/problem_1432.h
+        Problems/problem_12.cpp
+        Problems/problem_12.h
+        Problems/problem_1545.cpp
+        Problems/problem_1545.h
+        Problems/problem_1572.cpp
+        Problems/problem_1572.h
 )
