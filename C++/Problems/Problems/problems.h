@@ -17,13 +17,17 @@
 #include "problem_1556.h"
 #include "problem_1562.h"
 #include "problem_1572.h"
+#include "problem_1855.h"
+#include "problem_1893.h"
 #include "problem_2016.h"
 #include "problem_2294.h"
 #include "problem_2616.h"
+#include "problem_2679.h"
 #include "problem_2966.h"
 #include "problem_3101.h"
 #include "problem_3396.h"
 #include "problem_3423.h"
 #include "problem_3442.h"
+#include "problem_3443.h"
 
 #endif

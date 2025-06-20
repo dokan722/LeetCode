@@ -16,16 +16,20 @@ from Problems.problem1545 import Problem1545
 from Problems.problem1556 import Problem1556
 from Problems.problem1562 import Problem1562
 from Problems.problem1572 import Problem1572
+from Problems.problem1855 import Problem1855
+from Problems.problem1893 import Problem1893
 from Problems.problem2016 import Problem2016
 from Problems.problem2294 import Problem2294
 from Problems.problem2616 import Problem2616
+from Problems.problem2679 import Problem2679
 from Problems.problem2966 import Problem2966
 from Problems.problem3396 import Problem3396
 from Problems.problem3423 import Problem3423
 from Problems.problem3442 import Problem3442
+from Problems.problem3443 import Problem3443
 
 __all__ = ['Problem', 'Problem1', 'Problem2', 'Problem3', 'Problem5', 'Problem9', 'Problem11', 'Problem12', 'Problem386',
         'Problem417', 'Problem440', 'Problem637', 'Problem1356','Problem1432', 'Problem1545', 'Problem1556',
-           'Problem1562', 'Problem1572', 'Problem2016',
+           'Problem1562', 'Problem1572', 'Problem2016', 'Problem3443', 'Problem1855', 'Problem2679', 'Problem1893',
            'Problem2294', 'Problem2616', 'Problem2966', 'Problem3396', 'Problem3423', 'Problem3442']
 
