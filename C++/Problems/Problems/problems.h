@@ -37,6 +37,8 @@
 #include "problem_2966.h"
 #include "problem_3085.h"
 #include "problem_3101.h"
+#include "problem_3120.h"
+#include "problem_3371.h"
 #include "problem_3396.h"
 #include "problem_3423.h"
 #include "problem_3442.h"
