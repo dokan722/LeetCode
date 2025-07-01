@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Problems.Problems;
 
-namespace Problems
+namespace Problems.Problems
 {
     public class _1498 : IProblem
     {
@@ -30,7 +29,7 @@ namespace Problems
             var mod = (int)(Math.Pow(10, 9) + 7);
             powers[0] = 1;
             for (int i = 1; i < nums.Length; i++)
-                powers[i] = (powers[i - 1] * 2) % mod;
+                powers[i] = powers[i - 1] * 2 % mod;
             var result = 0;
             var left = 0;
             var right = nums.Length - 1;
