@@ -30,6 +30,7 @@
 #include "problem_1855.h"
 #include "problem_1893.h"
 #include "problem_1920.h"
+#include "problem_1968.h"
 #include "problem_2016.h"
 #include "problem_2040.h"
 #include "problem_2081.h"
@@ -49,6 +50,7 @@
 #include "problem_3371.h"
 #include "problem_3396.h"
 #include "problem_3423.h"
+#include "problem_3461.h"
 #include "problem_3442.h"
 #include "problem_3443.h"
 

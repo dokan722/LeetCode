@@ -29,6 +29,7 @@ from Problems.problem1839 import Problem1839
 from Problems.problem1855 import Problem1855
 from Problems.problem1893 import Problem1893
 from Problems.problem1920 import Problem1920
+from Problems.problem1968 import Problem1968
 from Problems.problem2016 import Problem2016
 from Problems.problem2040 import Problem2040
 from Problems.problem2081 import Problem2081
@@ -50,6 +51,7 @@ from Problems.problem3396 import Problem3396
 from Problems.problem3423 import Problem3423
 from Problems.problem3442 import Problem3442
 from Problems.problem3443 import Problem3443
+from Problems.problem3461 import Problem3461
 
 __all__ = ['Problem', 'Problem1', 'Problem2', 'Problem3', 'Problem5', 'Problem9', 'Problem11', 'Problem12', 'Problem386',
         'Problem417', 'Problem440', 'Problem637', 'Problem1356','Problem1432', 'Problem1545', 'Problem1556', 'Problem3085',
@@ -57,5 +59,6 @@ __all__ = ['Problem', 'Problem1', 'Problem2', 'Problem3', 'Problem5', 'Problem9'
            'Problem2294', 'Problem2616', 'Problem2966', 'Problem3396', 'Problem3423', 'Problem3442', 'Problem2138',
            'Problem334', 'Problem136', 'Problem2081', 'Problem2200', 'Problem2685', 'Problem2040', 'Problem1725',
            'Problem984', 'Problem2311', 'Problem1417', 'Problem3101', 'Problem3371', 'Problem3120', 'Problem2099',
-           'Problem1358', 'Problem1498', 'Problem1839', 'Problem594', 'Problem1743', 'Problem3330', 'Problem1920',]
+           'Problem1358', 'Problem1498', 'Problem1839', 'Problem594', 'Problem1743', 'Problem3330', 'Problem1920',
+           'Problem3461', 'Problem1968']
 
