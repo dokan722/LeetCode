@@ -4,7 +4,7 @@
 
 
 int main() {
-    auto problem = problem_463();
+    auto problem = problem_1296();
     if (problem.test())
     {
         std::cout << "\n";
