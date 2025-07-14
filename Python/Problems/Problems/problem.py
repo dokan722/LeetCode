@@ -2,5 +2,5 @@ from abc import ABC, abstractmethod
 
 class Problem(ABC):
     @abstractmethod
-    def test(self):
+    def test(self) -> bool:
         pass

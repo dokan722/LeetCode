@@ -2,13 +2,13 @@
 #define PROBLEM_2_H
 #include "../problem.h"
 
-struct ListNode {
+struct ListNode_2 {
     int val;
-    ListNode *next;
-    ListNode() : val(0), next(nullptr) {}
-    ListNode(int x) : val(x), next(nullptr) {}
-    ListNode(int x, ListNode *next) : val(x), next(next) {}
-    ~ListNode() { delete next; }
+    ListNode_2 *next;
+    ListNode_2() : val(0), next(nullptr) {}
+    ListNode_2(int x) : val(x), next(nullptr) {}
+    ListNode_2(int x, ListNode_2 *next) : val(x), next(next) {}
+    ~ListNode_2() { delete next; }
 };
 
 class problem_2 : public problem
@@ -16,9 +16,9 @@ class problem_2 : public problem
 public:
     bool test() override;
 
-    ListNode* addTwoNumbers(const ListNode* l1, const ListNode* l2);
+    ListNode_2* addTwoNumbers(const ListNode_2* l1, const ListNode_2* l2);
 private:
-    bool areSame(ListNode *l1, ListNode *l2);
+    bool areSame(ListNode_2 *l1, ListNode_2 *l2);
 };
 
 

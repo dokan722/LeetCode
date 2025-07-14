@@ -1,18 +1,18 @@
 #include "problem_2.h"
 
 bool problem_2::test() {
-    auto l1 =  ListNode(2,  new ListNode(4,  new ListNode(3)));
-    auto l2 =  ListNode(5,  new ListNode(6,  new ListNode(4)));
+    auto l1 =  ListNode_2(2,  new ListNode_2(4,  new ListNode_2(3)));
+    auto l2 =  ListNode_2(5,  new ListNode_2(6,  new ListNode_2(4)));
 
-    auto expected = new ListNode(7, new ListNode(0, new ListNode(8))); ;
+    auto expected = new ListNode_2(7, new ListNode_2(0, new ListNode_2(8))); ;
 
     auto result = addTwoNumbers(&l1, &l2);
 
     return areSame(expected, result);
 }
 
-ListNode * problem_2::addTwoNumbers(const ListNode *l1, const ListNode *l2) {
-    auto result =  ListNode(0);
+ListNode_2 * problem_2::addTwoNumbers(const ListNode_2 *l1, const ListNode_2 *l2) {
+    auto result =  ListNode_2(0);
     auto currNode = &result;
     auto it1 = l1;
     auto it2 = l2;
@@ -39,7 +39,7 @@ ListNode * problem_2::addTwoNumbers(const ListNode *l1, const ListNode *l2) {
         }
         else
             addNext = 0;
-        auto newNode = new ListNode(newValue);
+        auto newNode = new ListNode_2(newValue);
         currNode->next = newNode;
         currNode = newNode;
 
@@ -49,7 +49,7 @@ ListNode * problem_2::addTwoNumbers(const ListNode *l1, const ListNode *l2) {
     return root;
 }
 
-bool problem_2::areSame(ListNode *l1, ListNode *l2) {
+bool problem_2::areSame(ListNode_2 *l1, ListNode_2 *l2) {
     auto it1 = l1;
     auto it2 = l2;
     while (it1 != nullptr && it2 != nullptr)
