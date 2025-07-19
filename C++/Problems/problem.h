@@ -10,10 +10,12 @@ public:
 
     virtual bool test() = 0;
 
-    void printVector(std::vector<int> &arr);
+    template<class T>
+    void printVector(const std::vector<T> &arr);
 };
 
-inline void problem::printVector(std::vector<int> &arr) {
+template <typename T>
+inline void problem::printVector(const std::vector<T> &arr) {
     for (int i = 0; i < arr.size() - 1; i++)
         std::cout << arr[i] << ", ";
     std::cout << arr[arr.size() - 1] << std::endl;
