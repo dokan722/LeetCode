@@ -1,7 +1,7 @@
 from .problem import Problem
 
 
-class Problem2402(Problem):
+class Problem3522(Problem):
     def test(self):
         instructions = ["jump", "add", "add", "jump", "add", "jump"]
 
@@ -17,7 +17,7 @@ class Problem2402(Problem):
 
     def calculateScore(self, instructions, values):
         i = 0
-        n = instructions.Length
+        n = len(instructions)
         visited = [False] * n
         score = 0
         while 0 <= i < n and not visited[i]:

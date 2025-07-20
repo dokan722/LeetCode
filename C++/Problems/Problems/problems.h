@@ -18,6 +18,7 @@
 #include "problem_525.h"
 #include "problem_594.h"
 #include "problem_637.h"
+#include "problem_825.h"
 #include "problem_984.h"
 #include "problem_1007.h"
 #include "problem_1108.h"
@@ -39,6 +40,7 @@
 #include "problem_1562.h"
 #include "problem_1572.h"
 #include "problem_1725.h"
+#include "problem_1732.h"
 #include "problem_1743.h"
 #include "problem_1751.h"
 #include "problem_1839.h"
@@ -87,6 +89,7 @@
 #include "problem_3442.h"
 #include "problem_3443.h"
 #include "problem_3461.h"
+#include "problem_3516.h"
 #include "problem_3522.h"
 
 #endif
