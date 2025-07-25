@@ -65,6 +65,7 @@
 #include "problem_2200.h"
 #include "problem_2208.h"
 #include "problem_2212.h"
+#include "problem_2274.h"
 #include "problem_2294.h"
 #include "problem_2311.h"
 #include "problem_2335.h"
@@ -95,6 +96,7 @@
 #include "problem_3442.h"
 #include "problem_3443.h"
 #include "problem_3461.h"
+#include "problem_3487.h"
 #include "problem_3516.h"
 #include "problem_3522.h"
 
