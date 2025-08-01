@@ -7,6 +7,7 @@ from Problems.problem9 import Problem9
 from Problems.problem11 import Problem11
 from Problems.problem12 import Problem12
 from Problems.problem56 import Problem56
+from Problems.problem118 import Problem118
 from Problems.problem136 import Problem136
 from Problems.problem258 import Problem258
 from Problems.problem334 import Problem334
@@ -20,6 +21,7 @@ from Problems.problem525 import Problem525
 from Problems.problem594 import Problem594
 from Problems.problem637 import Problem637
 from Problems.problem825 import Problem825
+from Problems.problem898 import Problem898
 from Problems.problem941 import Problem941
 from Problems.problem984 import Problem984
 from Problems.problem1007 import Problem1007
@@ -55,6 +57,7 @@ from Problems.problem1855 import Problem1855
 from Problems.problem1865 import Problem1865
 from Problems.problem1893 import Problem1893
 from Problems.problem1920 import Problem1920
+from Problems.problem1927 import Problem1927
 from Problems.problem1957 import Problem1957
 from Problems.problem1968 import Problem1968
 from Problems.problem2016 import Problem2016
@@ -93,6 +96,7 @@ from Problems.problem3136 import Problem3136
 from Problems.problem3138 import Problem3138
 from Problems.problem3201 import Problem3201
 from Problems.problem3202 import Problem3202
+from Problems.problem3248 import Problem3248
 from Problems.problem3304 import Problem3304
 from Problems.problem3307 import Problem3307
 from Problems.problem3330 import Problem3330
@@ -123,5 +127,5 @@ __all__ = ['Problem', 'Problem1', 'Problem2', 'Problem3', 'Problem5', 'Problem9'
            'Problem3522', 'Problem3516', 'Problem1732', 'Problem1957', 'Problem56', 'Problem1695', 'Problem258',
            'Problem1717', 'Problem1688', 'Problem500', 'Problem3487', 'Problem2274', 'Problem1577', 'Problem1089',
            'Problem2210', 'Problem3138', 'Problem2044', 'Problem2411', 'Problem2894', 'Problem2856', 'Problem2419',
-           'Problem941']
+           'Problem941', 'Problem898', 'Problem3248', 'Problem118', 'Problem1927']
 
