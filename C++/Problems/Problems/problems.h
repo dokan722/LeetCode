@@ -54,6 +54,7 @@
 #include "problem_1732.h"
 #include "problem_1743.h"
 #include "problem_1751.h"
+#include "problem_1790.h"
 #include "problem_1839.h"
 #include "problem_1855.h"
 #include "problem_1865.h"
