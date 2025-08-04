@@ -24,6 +24,7 @@
 #include "problem_637.h"
 #include "problem_825.h"
 #include "problem_898.h"
+#include "problem_904.h"
 #include "problem_941.h"
 #include "problem_983.h"
 #include "problem_984.h"
@@ -115,6 +116,7 @@
 #include "problem_3452.h"
 #include "problem_3461.h"
 #include "problem_3487.h"
+#include "problem_3498.h"
 #include "problem_3516.h"
 #include "problem_3522.h"
 
