@@ -11,7 +11,26 @@ namespace Problems.Contests.BiWeekly163
     {
         public bool Test()
         {
-            throw new NotImplementedException();
+            var n = 2;
+            var m = 2;
+            var k = 2;
+
+            var expected = 1;
+
+            var result = MinSensors(n, m, k);
+
+            Console.WriteLine(result);
+
+            return result == expected;
+        }
+
+        public int MinSensors(int n, int m, int k)
+        {
+            var range = 2 * k + 1;
+            var inRow = (n + range - 1) / range;
+            var inColumn = (m + range - 1) / range;
+
+            return inRow * inColumn;
         }
     }
 }
