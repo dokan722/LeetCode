@@ -25,6 +25,7 @@ from Problems.problem525 import Problem525
 from Problems.problem594 import Problem594
 from Problems.problem637 import Problem637
 from Problems.problem645 import Problem645
+from Problems.problem679 import Problem679
 from Problems.problem808 import Problem808
 from Problems.problem825 import Problem825
 from Problems.problem837 import Problem837
@@ -50,6 +51,7 @@ from Problems.problem1358 import Problem1358
 from Problems.problem1394 import Problem1394
 from Problems.problem1417 import Problem1417
 from Problems.problem1419 import Problem1419
+from Problems.problem1422 import Problem1422
 from Problems.problem1432 import Problem1432
 from Problems.problem1475 import Problem1475
 from Problems.problem1480 import Problem1480
@@ -61,6 +63,7 @@ from Problems.problem1561 import Problem1561
 from Problems.problem1562 import Problem1562
 from Problems.problem1572 import Problem1572
 from Problems.problem1577 import Problem1577
+from Problems.problem1647 import Problem1647
 from Problems.problem1688 import Problem1688
 from Problems.problem1695 import Problem1695
 from Problems.problem1717 import Problem1717
@@ -99,6 +102,7 @@ from Problems.problem2294 import Problem2294
 from Problems.problem2311 import Problem2311
 from Problems.problem2315 import Problem2315
 from Problems.problem2335 import Problem2335
+from Problems.problem2348 import Problem2348
 from Problems.problem2369 import Problem2369
 from Problems.problem2402 import Problem2402
 from Problems.problem2410 import Problem2410
@@ -166,5 +170,6 @@ __all__ = ['Problem', 'Problem1', 'Problem2', 'Problem3', 'Problem5', 'Problem9'
            'Problem645', 'Problem3363', 'Problem2042', 'Problem808', 'Problem1014', 'Problem231', 'Problem1779',
            'Problem869', 'Problem1775', 'Problem2438', 'Problem2698', 'Problem2787', 'Problem1475', 'Problem326',
            'Problem2315', 'Problem2264', 'Problem3100', 'Problem1518', 'Problem342', 'Problem3232', 'Problem1561',
-           'Problem1323', 'Problem2270', 'Problem837', 'Problem3039']
+           'Problem1323', 'Problem2270', 'Problem837', 'Problem3039', 'Problem679', 'Problem1647', 'Problem2348',
+           'Problem1422']
 
