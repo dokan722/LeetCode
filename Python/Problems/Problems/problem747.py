@@ -3,7 +3,7 @@ from typing import List
 from .problem import Problem
 
 
-class Problem1717(Problem):
+class Problem747(Problem):
     def test(self) -> bool:
         nums = [3, 6, 1, 0]
 
