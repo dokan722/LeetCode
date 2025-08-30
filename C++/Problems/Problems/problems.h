@@ -7,11 +7,13 @@
 #include "problem_9.h"
 #include "problem_11.h"
 #include "problem_12.h"
+#include "problem_36.h"
 #include "problem_56.h"
 #include "problem_118.h"
 #include "problem_136.h"
 #include "problem_231.h"
 #include "problem_258.h"
+#include "problem_316.h"
 #include "problem_326.h"
 #include "problem_334.h"
 #include "problem_342.h"
@@ -46,6 +48,7 @@
 #include "problem_1089.h"
 #include "problem_1108.h"
 #include "problem_1128.h"
+#include "problem_1155.h"
 #include "problem_1233.h"
 #include "problem_1277.h"
 #include "problem_1290.h"
@@ -171,5 +174,6 @@
 #include "problem_3498.h"
 #include "problem_3516.h"
 #include "problem_3522.h"
+#include "problem_3523.h"
 
 #endif
