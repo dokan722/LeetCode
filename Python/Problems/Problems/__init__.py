@@ -95,9 +95,11 @@ from Problems.problem1751 import Problem1751
 from Problems.problem1775 import Problem1775
 from Problems.problem1779 import Problem1779
 from Problems.problem1790 import Problem1790
+from Problems.problem1792 import Problem1792
 from Problems.problem1839 import Problem1839
 from Problems.problem1855 import Problem1855
 from Problems.problem1865 import Problem1865
+from Problems.problem1877 import Problem1877
 from Problems.problem1893 import Problem1893
 from Problems.problem1894 import Problem1894
 from Problems.problem1910 import Problem1910
@@ -280,9 +282,11 @@ __all__ = ['Problem1',
 'Problem1775',
 'Problem1779',
 'Problem1790',
+'Problem1792',
 'Problem1839',
 'Problem1855',
 'Problem1865',
+'Problem1877',
 'Problem1893',
 'Problem1894',
 'Problem1910',
