@@ -36,6 +36,7 @@
 #include "problem_825.h"
 #include "problem_837.h"
 #include "problem_869.h"
+#include "problem_877.h"
 #include "problem_898.h"
 #include "problem_901.h"
 #include "problem_904.h"
