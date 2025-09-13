@@ -13,6 +13,7 @@
 #include "problem_118.h"
 #include "problem_136.h"
 #include "problem_231.h"
+#include "problem_238.h"
 #include "problem_258.h"
 #include "problem_316.h"
 #include "problem_326.h"
@@ -27,6 +28,7 @@
 #include "problem_498.h"
 #include "problem_500.h"
 #include "problem_525.h"
+#include "problem_583.h"
 #include "problem_594.h"
 #include "problem_637.h"
 #include "problem_645.h"
@@ -200,5 +202,6 @@
 #include "problem_3516.h"
 #include "problem_3522.h"
 #include "problem_3523.h"
+#include "problem_3541.h"
 
 #endif
