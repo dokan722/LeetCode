@@ -11,7 +11,7 @@ bool problem_2115::test() {
 
     auto result = findAllRecipes(recipes, ingredients, supplies);
 
-    printVector(result);
+    print1DVector(result);
 
     return result == expected;
 }

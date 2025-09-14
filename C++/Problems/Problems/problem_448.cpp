@@ -7,7 +7,7 @@ bool problem_448::test() {
 
     auto result = findDisappearedNumbers(nums);
 
-    printVector(result);
+    print1DVector(result);
 
     return result == expected;
 }

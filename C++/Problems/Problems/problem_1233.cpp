@@ -11,7 +11,7 @@ bool problem_1233::test() {
 
     auto result = removeSubfolders(folder);
 
-    printVector(result);
+    print1DVector(result);
 
     return expected == result;
 }

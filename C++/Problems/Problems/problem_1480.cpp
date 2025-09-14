@@ -7,7 +7,7 @@ bool problem_1480::test() {
 
     auto result = runningSum(nums);
 
-    printVector(result);
+    print1DVector(result);
 
     return result == expected;
 }
