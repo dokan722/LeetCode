@@ -19,7 +19,7 @@ namespace Problems
             foreach (var row in array)
             {
                 Print1DArray(row, valueSeparator);
-                Console.WriteLine(lineSeparator);
+                Console.Write(lineSeparator);
             }
         }
 

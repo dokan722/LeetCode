@@ -149,6 +149,7 @@
 #include "problem_2433.h"
 #include "problem_2438.h"
 #include "problem_2507.h"
+#include "problem_2545.h"
 #include "problem_2561.h"
 #include "problem_2616.h"
 #include "problem_2640.h"

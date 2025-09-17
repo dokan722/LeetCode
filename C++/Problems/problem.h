@@ -26,7 +26,7 @@ void problem::print1DVector(const std::vector<T> &arr, std::string valueSeparato
 
 template<class T>
 void problem::print2DVector(const std::vector<std::vector<T>> &arr, std::string valueSeparator, std::string lineSeparator) {
-    for (int i = 0; i < arr.size() - 1; i++) {
+    for (int i = 0; i < arr.size(); i++) {
         print1DVector(arr[i], valueSeparator);
         std::cout << lineSeparator;
     }
