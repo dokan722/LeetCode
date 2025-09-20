@@ -144,6 +144,7 @@
 #include "problem_2348.h"
 #include "problem_2369.h"
 #include "problem_2327.h"
+#include "problem_2390.h"
 #include "problem_2402.h"
 #include "problem_2410.h"
 #include "problem_2411.h"
