@@ -48,7 +48,7 @@ namespace Problems.Contests.BiWeekly166
                 }
                 else if (clusters[swap[0]] != clusters[swap[1]])
                 {
-                    var groupNum = groups[clusters[swap[0]]].Count > groups[clusters[swap[0]]].Count ? clusters[swap[0]] : clusters[swap[1]];
+                    var groupNum = groups[clusters[swap[0]]].Count > groups[clusters[swap[1]]].Count ? clusters[swap[0]] : clusters[swap[1]];
                     var removeGroupNum = groupNum == clusters[swap[0]] ? clusters[swap[1]] : clusters[swap[0]];
                     foreach (var id in groups[removeGroupNum])
                     {

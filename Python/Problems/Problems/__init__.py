@@ -43,6 +43,7 @@ from Problems.problem620 import Problem620
 from Problems.problem637 import Problem637
 from Problems.problem645 import Problem645
 from Problems.problem679 import Problem679
+from Problems.problem739 import Problem739
 from Problems.problem747 import Problem747
 from Problems.problem795 import Problem795
 from Problems.problem808 import Problem808
@@ -58,6 +59,7 @@ from Problems.problem918 import Problem918
 from Problems.problem941 import Problem941
 from Problems.problem961 import Problem961
 from Problems.problem966 import Problem966
+from Problems.problem976 import Problem976
 from Problems.problem983 import Problem983
 from Problems.problem984 import Problem984
 from Problems.problem985 import Problem985
@@ -65,6 +67,7 @@ from Problems.problem1007 import Problem1007
 from Problems.problem1010 import Problem1010
 from Problems.problem1014 import Problem1014
 from Problems.problem1029 import Problem1029
+from Problems.problem1039 import Problem1039
 from Problems.problem1051 import Problem1051
 from Problems.problem1089 import Problem1089
 from Problems.problem1108 import Problem1108
@@ -209,6 +212,7 @@ from Problems.problem3197 import Problem3197
 from Problems.problem3201 import Problem3201
 from Problems.problem3202 import Problem3202
 from Problems.problem3210 import Problem3210
+from Problems.problem3211 import Problem3211
 from Problems.problem3227 import Problem3227
 from Problems.problem3232 import Problem3232
 from Problems.problem3248 import Problem3248
@@ -285,6 +289,7 @@ __all__ = ['Problem1',
 'Problem637',
 'Problem645',
 'Problem679',
+'Problem739',
 'Problem747',
 'Problem795',
 'Problem808',
@@ -300,6 +305,7 @@ __all__ = ['Problem1',
 'Problem941',
 'Problem961',
 'Problem966',
+'Problem976',
 'Problem983',
 'Problem984',
 'Problem985',
@@ -307,6 +313,7 @@ __all__ = ['Problem1',
 'Problem1010',
 'Problem1014',
 'Problem1029',
+'Problem1039',
 'Problem1051',
 'Problem1089',
 'Problem1108',
@@ -451,6 +458,7 @@ __all__ = ['Problem1',
 'Problem3201',
 'Problem3202',
 'Problem3210',
+'Problem3211',
 'Problem3227',
 'Problem3232',
 'Problem3248',
