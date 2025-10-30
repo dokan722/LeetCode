@@ -118,8 +118,10 @@ from Problems.problem1492 import Problem1492
 from Problems.problem1493 import Problem1493
 from Problems.problem1498 import Problem1498
 from Problems.problem1504 import Problem1504
+from Problems.problem1512 import Problem1512
 from Problems.problem1518 import Problem1518
 from Problems.problem1524 import Problem1524
+from Problems.problem1526 import Problem1526
 from Problems.problem1545 import Problem1545
 from Problems.problem1551 import Problem1551
 from Problems.problem1556 import Problem1556
@@ -425,8 +427,10 @@ __all__ = ['Problem1',
 'Problem1493',
 'Problem1498',
 'Problem1504',
+'Problem1512',
 'Problem1518',
 'Problem1524',
+'Problem1526',
 'Problem1545',
 'Problem1551',
 'Problem1556',
