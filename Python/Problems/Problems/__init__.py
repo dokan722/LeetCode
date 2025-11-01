@@ -28,6 +28,7 @@ from Problems.problem238 import Problem238
 from Problems.problem258 import Problem258
 from Problems.problem316 import Problem316
 from Problems.problem326 import Problem326
+from Problems.problem328 import Problem328
 from Problems.problem334 import Problem334
 from Problems.problem342 import Problem342
 from Problems.problem386 import Problem386
@@ -53,6 +54,7 @@ from Problems.problem679 import Problem679
 from Problems.problem709 import Problem709
 from Problems.problem739 import Problem739
 from Problems.problem747 import Problem747
+from Problems.problem763 import Problem763
 from Problems.problem778 import Problem778
 from Problems.problem791 import Problem791
 from Problems.problem795 import Problem795
@@ -267,10 +269,12 @@ from Problems.problem3201 import Problem3201
 from Problems.problem3202 import Problem3202
 from Problems.problem3210 import Problem3210
 from Problems.problem3211 import Problem3211
+from Problems.problem3217 import Problem3217
 from Problems.problem3227 import Problem3227
 from Problems.problem3232 import Problem3232
 from Problems.problem3248 import Problem3248
 from Problems.problem3274 import Problem3274
+from Problems.problem3289 import Problem3289
 from Problems.problem3304 import Problem3304
 from Problems.problem3307 import Problem3307
 from Problems.problem3325 import Problem3325
@@ -337,6 +341,7 @@ __all__ = ['Problem1',
 'Problem258',
 'Problem316',
 'Problem326',
+'Problem328',
 'Problem334',
 'Problem342',
 'Problem386',
@@ -362,6 +367,7 @@ __all__ = ['Problem1',
 'Problem709',
 'Problem739',
 'Problem747',
+'Problem763',
 'Problem778',
 'Problem791',
 'Problem795',
@@ -576,10 +582,12 @@ __all__ = ['Problem1',
 'Problem3202',
 'Problem3210',
 'Problem3211',
+'Problem3217',
 'Problem3227',
 'Problem3232',
 'Problem3248',
 'Problem3274',
+'Problem3289',
 'Problem3304',
 'Problem3307',
 'Problem3325',
