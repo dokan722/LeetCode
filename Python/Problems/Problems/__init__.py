@@ -177,6 +177,7 @@ from Problems.problem1968 import Problem1968
 from Problems.problem2006 import Problem2006
 from Problems.problem2011 import Problem2011
 from Problems.problem2016 import Problem2016
+from Problems.problem2027 import Problem2027
 from Problems.problem2038 import Problem2038
 from Problems.problem2040 import Problem2040
 from Problems.problem2042 import Problem2042
@@ -496,6 +497,7 @@ __all__ = ['Problem1',
 'Problem2006',
 'Problem2011',
 'Problem2016',
+'Problem2027',
 'Problem2038',
 'Problem2040',
 'Problem2042',

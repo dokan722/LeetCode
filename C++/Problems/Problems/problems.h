@@ -167,6 +167,7 @@
 #include "problem_2006.h"
 #include "problem_2011.h"
 #include "problem_2016.h"
+#include "problem_2027.h"
 #include "problem_2038.h"
 #include "problem_2040.h"
 #include "problem_2042.h"
