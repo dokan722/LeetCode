@@ -191,6 +191,8 @@
 #include "problem_2140.h"
 #include "problem_2149.h"
 #include "problem_2163.h"
+#include "problem_2169.h"
+#include "problem_2914.h"
 #include "problem_2197.h"
 #include "problem_2200.h"
 #include "problem_2208.h"
