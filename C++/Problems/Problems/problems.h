@@ -102,6 +102,7 @@
 #include "problem_1356.h"
 #include "problem_1358.h"
 #include "problem_1365.h"
+#include "problem_1387.h"
 #include "problem_1394.h"
 #include "problem_1415.h"
 #include "problem_1417.h"
@@ -315,6 +316,7 @@
 #include "problem_3522.h"
 #include "problem_3523.h"
 #include "problem_3541.h"
+#include "problem_3542.h"
 #include "problem_3612.h"
 
 #endif
