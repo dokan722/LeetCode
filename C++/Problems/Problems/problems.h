@@ -347,12 +347,14 @@
 #include "problem_3494.h"
 #include "problem_3495.h"
 #include "problem_3498.h"
+#include "problem_3512.h"
 #include "problem_3516.h"
 #include "problem_3517.h"
 #include "problem_3522.h"
 #include "problem_3523.h"
 #include "problem_3541.h"
 #include "problem_3542.h"
+#include "problem_3561.h"
 #include "problem_3612.h"
 
 #endif

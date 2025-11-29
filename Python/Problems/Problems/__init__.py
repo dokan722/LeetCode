@@ -357,12 +357,14 @@ from Problems.problem3487 import Problem3487
 from Problems.problem3494 import Problem3494
 from Problems.problem3495 import Problem3495
 from Problems.problem3498 import Problem3498
+from Problems.problem3512 import Problem3512
 from Problems.problem3516 import Problem3516
 from Problems.problem3517 import Problem3517
 from Problems.problem3522 import Problem3522
 from Problems.problem3523 import Problem3523
 from Problems.problem3541 import Problem3541
 from Problems.problem3542 import Problem3542
+from Problems.problem3561 import Problem3561
 from Problems.problem3612 import Problem3612
 __all__ = ['Problem1',
 'Problem2',
@@ -722,10 +724,12 @@ __all__ = ['Problem1',
 'Problem3494',
 'Problem3495',
 'Problem3498',
+'Problem3512',
 'Problem3516',
 'Problem3517',
 'Problem3522',
 'Problem3523',
 'Problem3541',
 'Problem3542',
+'Problem3561',
 'Problem3612']
