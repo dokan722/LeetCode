@@ -177,6 +177,7 @@
 #include "problem_1893.h"
 #include "problem_1894.h"
 #include "problem_1910.h"
+#include "problem_1913.h"
 #include "problem_1920.h"
 #include "problem_1927.h"
 #include "problem_1929.h"
@@ -362,5 +363,6 @@
 #include "problem_3561.h"
 #include "problem_3612.h"
 #include "problem_3623.h"
+#include "problem_3625.h"
 
 #endif
