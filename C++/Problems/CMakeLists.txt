@@ -766,6 +766,10 @@ add_executable(Problems main.cpp
         Problems/problem_1523.h
         Problems/problem_1003.cpp
         Problems/problem_1003.h
+        Problems/problem_1925.cpp
+        Problems/problem_1925.h
+        Problems/problem_1006.cpp
+        Problems/problem_1006.h
         Problems/problem_3577.cpp
         Problems/problem_3577.h
         Problems/problem_1780.cpp
