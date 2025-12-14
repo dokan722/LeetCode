@@ -220,6 +220,7 @@
 #include "problem_2138.h"
 #include "problem_2140.h"
 #include "problem_2141.h"
+#include "problem_2147.h"
 #include "problem_2149.h"
 #include "problem_2154.h"
 #include "problem_2162.h"
@@ -383,5 +384,6 @@
 #include "problem_3612.h"
 #include "problem_3623.h"
 #include "problem_3625.h"
+#include "problem_3741.h"
 
 #endif
