@@ -282,6 +282,7 @@
 #include "problem_2654.h"
 #include "problem_2657.h"
 #include "problem_2656.h"
+#include "problem_2661.h"
 #include "problem_2685.h"
 #include "problem_2679.h"
 #include "problem_2698.h"
