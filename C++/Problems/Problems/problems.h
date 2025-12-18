@@ -23,6 +23,7 @@
 #include "problem_153.h"
 #include "problem_165.h"
 #include "problem_166.h"
+#include "problem_188.h"
 #include "problem_231.h"
 #include "problem_238.h"
 #include "problem_258.h"
@@ -389,6 +390,7 @@
 #include "problem_3612.h"
 #include "problem_3623.h"
 #include "problem_3625.h"
+#include "problem_3652.h"
 #include "problem_3741.h"
 
 #endif
