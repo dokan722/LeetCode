@@ -214,6 +214,7 @@
 #include "problem_2073.h"
 #include "problem_2079.h"
 #include "problem_2081.h"
+#include "problem_2092.h"
 #include "problem_2099.h"
 #include "problem_2108.h"
 #include "problem_2109.h"
@@ -392,5 +393,6 @@
 #include "problem_3625.h"
 #include "problem_3652.h"
 #include "problem_3741.h"
+#include "problem_3774.h"
 
 #endif
