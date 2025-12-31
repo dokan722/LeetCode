@@ -379,6 +379,7 @@
 #include "problem_3396.h"
 #include "problem_3397.h"
 #include "problem_3423.h"
+#include "problem_3427.h"
 #include "problem_3432.h"
 #include "problem_3433.h"
 #include "problem_3439.h"
