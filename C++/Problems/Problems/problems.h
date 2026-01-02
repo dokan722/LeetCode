@@ -109,6 +109,7 @@
 #include "problem_1018.h"
 #include "problem_1029.h"
 #include "problem_1039.h"
+#include "problem_1043.h"
 #include "problem_1051.h"
 #include "problem_1089.h"
 #include "problem_1108.h"
@@ -417,6 +418,7 @@
 #include "problem_3625.h"
 #include "problem_3652.h"
 #include "problem_3741.h"
+#include "problem_3760.h"
 #include "problem_3774.h"
 
 #endif
