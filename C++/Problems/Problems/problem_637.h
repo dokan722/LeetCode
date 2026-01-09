@@ -7,26 +7,6 @@
 
 #include "../problem.h"
 
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-
-    TreeNode() : val(0), left(nullptr), right(nullptr) {
-    }
-
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {
-    }
-
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {
-    }
-
-    ~TreeNode() {
-        delete left;
-        delete right;
-    }
-};
-
 struct DepthData
 {
     double Count;
@@ -34,6 +14,25 @@ struct DepthData
 };
 
 class problem_637 : public problem {
+    struct TreeNode {
+        int val;
+        TreeNode *left;
+        TreeNode *right;
+
+        TreeNode() : val(0), left(nullptr), right(nullptr) {
+        }
+
+        TreeNode(int x) : val(x), left(nullptr), right(nullptr) {
+        }
+
+        TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {
+        }
+
+        ~TreeNode() {
+            delete left;
+            delete right;
+        }
+    };
 public:
     bool test() override;
 
