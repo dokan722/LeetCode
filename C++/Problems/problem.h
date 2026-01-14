@@ -19,7 +19,11 @@ public:
 
 template <typename T>
 void problem::print1DVector(const std::vector<T> &arr, std::string valueSeparator) {
-    for (int i = 0; i < arr.size() - 1; i++)
+    if (arr.size() == 0) {
+        std::cout << std::endl;
+        return;
+    }
+    for (int i = 0; i < (int)arr.size() - 1; i++)
         std::cout << arr[i] << valueSeparator;
     std::cout << arr[arr.size() - 1] << std::endl;
 }
