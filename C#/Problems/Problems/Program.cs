@@ -2,7 +2,7 @@
 using Problems.Problems;
 
 
-var problem = new _1423();
+var problem = new Problems.Contests.BiWeekly174._4();
 
 if (problem.Test())
 {
