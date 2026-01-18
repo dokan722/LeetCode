@@ -347,6 +347,7 @@ from Problems.problem2785 import Problem2785
 from Problems.problem2787 import Problem2787
 from Problems.problem2798 import Problem2798
 from Problems.problem2829 import Problem2829
+from Problems.problem2840 import Problem2840
 from Problems.problem2856 import Problem2856
 from Problems.problem2864 import Problem2864
 from Problems.problem2872 import Problem2872
@@ -808,6 +809,7 @@ __all__ = ['Problem1',
 'Problem2787',
 'Problem2798',
 'Problem2829',
+'Problem2840',
 'Problem2856',
 'Problem2864',
 'Problem2872',

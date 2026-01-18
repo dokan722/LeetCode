@@ -338,6 +338,7 @@
 #include "problem_2787.h"
 #include "problem_2798.h"
 #include "problem_2829.h"
+#include "problem_2840.h"
 #include "problem_2856.h"
 #include "problem_2864.h"
 #include "problem_2872.h"
