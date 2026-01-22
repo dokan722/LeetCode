@@ -454,6 +454,7 @@
 #include "problem_3623.h"
 #include "problem_3625.h"
 #include "problem_3652.h"
+#include "problem_3675.h"
 #include "problem_3741.h"
 #include "problem_3760.h"
 #include "problem_3774.h"
