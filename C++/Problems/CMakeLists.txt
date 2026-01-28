@@ -960,4 +960,8 @@ add_executable(Problems main.cpp
         Problems/problem_3650.h
         Problems/problem_3160.cpp
         Problems/problem_3160.h
+        Problems/problem_394.cpp
+        Problems/problem_394.h
+        Problems/problem_1529.cpp
+        Problems/problem_1529.h
 )
