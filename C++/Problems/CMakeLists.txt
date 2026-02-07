@@ -1000,4 +1000,8 @@ add_executable(Problems main.cpp
         Problems/problem_3634.h
         Problems/problem_1471.cpp
         Problems/problem_1471.h
+        Problems/problem_1846.cpp
+        Problems/problem_1846.h
+        Problems/problem_2938.cpp
+        Problems/problem_2938.h
 )
