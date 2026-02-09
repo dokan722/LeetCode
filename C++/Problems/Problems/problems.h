@@ -121,6 +121,7 @@
 #include "problem_1015.h"
 #include "problem_1018.h"
 #include "problem_1029.h"
+#include "problem_1035.h"
 #include "problem_1039.h"
 #include "problem_1041.h"
 #include "problem_1043.h"
