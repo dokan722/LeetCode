@@ -356,6 +356,7 @@
 #include "problem_2654.h"
 #include "problem_2656.h"
 #include "problem_2657.h"
+#include "problem_2658.h"
 #include "problem_2661.h"
 #include "problem_2672.h"
 #include "problem_2685.h"
