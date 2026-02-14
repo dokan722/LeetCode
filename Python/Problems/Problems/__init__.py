@@ -86,8 +86,11 @@ from Problems.problem778 import Problem778
 from Problems.problem784 import Problem784
 from Problems.problem791 import Problem791
 from Problems.problem795 import Problem795
+from Problems.problem799 import Problem799
 from Problems.problem808 import Problem808
 from Problems.problem812 import Problem812
+from Problems.problem821 import Problem821
+from Problems.problem822 import Problem822
 from Problems.problem825 import Problem825
 from Problems.problem837 import Problem837
 from Problems.problem838 import Problem838
@@ -599,8 +602,11 @@ __all__ = ['Problem1',
 'Problem784',
 'Problem791',
 'Problem795',
+'Problem799',
 'Problem808',
 'Problem812',
+'Problem821',
+'Problem822',
 'Problem825',
 'Problem837',
 'Problem838',
