@@ -118,6 +118,7 @@
 #include "problem_944.h"
 #include "problem_945.h"
 #include "problem_946.h"
+#include "problem_948.h"
 #include "problem_955.h"
 #include "problem_960.h"
 #include "problem_961.h"
@@ -538,6 +539,7 @@
 #include "problem_3741.h"
 #include "problem_3760.h"
 #include "problem_3774.h"
+#include "problem_3804.h"
 #include "problem_3818.h"
 
 #endif
