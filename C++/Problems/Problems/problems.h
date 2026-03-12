@@ -312,6 +312,7 @@
 #include "problem_2115.h"
 #include "problem_2124.h"
 #include "problem_2125.h"
+#include "problem_2131.h"
 #include "problem_2138.h"
 #include "problem_2140.h"
 #include "problem_2141.h"
@@ -545,5 +546,6 @@
 #include "problem_3774.h"
 #include "problem_3804.h"
 #include "problem_3818.h"
+#include "problem_3862.h"
 
 #endif
