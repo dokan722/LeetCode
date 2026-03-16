@@ -1124,4 +1124,8 @@ add_executable(Problems main.cpp
         Problems/problem_735.h
         Problems/problem_3746.cpp
         Problems/problem_3746.h
+        Problems/problem_624.cpp
+        Problems/problem_624.h
+        Problems/problem_1760.cpp
+        Problems/problem_1760.h
 )
