@@ -538,6 +538,7 @@
 #include "problem_3531.h"
 #include "problem_3541.h"
 #include "problem_3542.h"
+#include "problem_3546.h"
 #include "problem_3561.h"
 #include "problem_3567.h"
 #include "problem_3573.h"
@@ -564,6 +565,7 @@
 #include "problem_3774.h"
 #include "problem_3804.h"
 #include "problem_3818.h"
+#include "problem_3861.h"
 #include "problem_3862.h"
 
 #endif
