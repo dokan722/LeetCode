@@ -9,12 +9,12 @@ namespace Problems
 {
     public static class Utils
     {
-        public static void Print1DArray<T>(T[] array, string valueSeparator = ", ")
+        public static void Print1DArray<T>(IEnumerable<T> array, string valueSeparator = ", ")
         {
             Console.WriteLine(string.Join(valueSeparator, array));
         }
 
-        public static void Print2DArray<T>(T[][] array, string valueSeparator = ", ", string lineSeparator = "\n")
+        public static void Print2DArray<T>(IEnumerable<IEnumerable<T>> array, string valueSeparator = ", ", string lineSeparator = "\n")
         {
             foreach (var row in array)
             {
@@ -23,22 +23,26 @@ namespace Problems
             }
         }
 
-        public static bool Compare1DArrays<T>(T[] array1, T[] array2)
+        public static bool Compare1DArrays<T>(IEnumerable<T> array1, IEnumerable<T> array2)
         {
             return array1.SequenceEqual(array2);
         }
 
-        public static bool Compare2DArrays<T>(T[][] array1, T[][] array2)
+        public static bool Compare2DArrays<T>(IEnumerable<IEnumerable<T>> array1, IEnumerable<IEnumerable<T>> array2)
         {
-            if (array1.Length != array2.Length)
-                return false;
-            for (int i = 0; i < array1.Length; i++)
+            using var e1 = array1.GetEnumerator();
+            using var e2 = array2.GetEnumerator();
+
+            while (e1.MoveNext())
             {
-                if (!Compare1DArrays(array1[i], array2[i]))
+                if (!e2.MoveNext()) return
+                    false;
+
+                if (!e1.Current.SequenceEqual(e2.Current))
                     return false;
             }
 
-            return true;
+            return !e2.MoveNext();
         }
 
         public static T GCD<T>(T a, T b) where T : INumber<T>
