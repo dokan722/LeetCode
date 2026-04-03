@@ -2,7 +2,7 @@
 using Problems.Problems;
 
 
-var problem = new _2730();
+var problem = new _3779();
 
 if (problem.Test())
 {
