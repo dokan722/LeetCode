@@ -243,6 +243,7 @@
 #include "problem_1611.h"
 #include "problem_1619.h"
 #include "problem_1625.h"
+#include "problem_1630.h"
 #include "problem_1642.h"
 #include "problem_1647.h"
 #include "problem_1653.h"
