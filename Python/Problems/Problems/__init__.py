@@ -288,12 +288,14 @@ from Problems.problem1781 import Problem1781
 from Problems.problem1784 import Problem1784
 from Problems.problem1790 import Problem1790
 from Problems.problem1792 import Problem1792
+from Problems.problem1798 import Problem1798
 from Problems.problem1800 import Problem1800
 from Problems.problem1807 import Problem1807
 from Problems.problem1817 import Problem1817
 from Problems.problem1833 import Problem1833
 from Problems.problem1839 import Problem1839
 from Problems.problem1846 import Problem1846
+from Problems.problem1848 import Problem1848
 from Problems.problem1855 import Problem1855
 from Problems.problem1860 import Problem1860
 from Problems.problem1865 import Problem1865
@@ -901,12 +903,14 @@ __all__ = ['Problem1',
 'Problem1784',
 'Problem1790',
 'Problem1792',
+'Problem1798',
 'Problem1800',
 'Problem1807',
 'Problem1817',
 'Problem1833',
 'Problem1839',
 'Problem1846',
+'Problem1848',
 'Problem1855',
 'Problem1860',
 'Problem1865',
