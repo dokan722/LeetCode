@@ -1242,4 +1242,12 @@ add_executable(Problems main.cpp
         Problems/problem_3761.h
         Problems/problem_3550.cpp
         Problems/problem_3550.h
+        Problems/problem_3848.cpp
+        Problems/problem_3848.h
+        Problems/problem_2437.cpp
+        Problems/problem_2437.h
+        Problems/problem_2078.cpp
+        Problems/problem_2078.h
+        Problems/problem_2871.cpp
+        Problems/problem_2871.h
 )
