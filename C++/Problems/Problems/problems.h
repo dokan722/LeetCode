@@ -481,6 +481,7 @@
 #include "problem_3047.h"
 #include "problem_3074.h"
 #include "problem_3075.h"
+#include "problem_3084.h"
 #include "problem_3085.h"
 #include "problem_3090.h"
 #include "problem_3100.h"
