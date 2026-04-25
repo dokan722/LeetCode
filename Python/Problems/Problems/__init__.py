@@ -425,6 +425,7 @@ from Problems.problem2491 import Problem2491
 from Problems.problem2507 import Problem2507
 from Problems.problem2515 import Problem2515
 from Problems.problem2528 import Problem2528
+from Problems.problem2530 import Problem2530
 from Problems.problem2536 import Problem2536
 from Problems.problem2537 import Problem2537
 from Problems.problem2545 import Problem2545
@@ -462,6 +463,7 @@ from Problems.problem2785 import Problem2785
 from Problems.problem2787 import Problem2787
 from Problems.problem2798 import Problem2798
 from Problems.problem2829 import Problem2829
+from Problems.problem2833 import Problem2833
 from Problems.problem2839 import Problem2839
 from Problems.problem2840 import Problem2840
 from Problems.problem2856 import Problem2856
@@ -495,6 +497,7 @@ from Problems.problem3075 import Problem3075
 from Problems.problem3084 import Problem3084
 from Problems.problem3085 import Problem3085
 from Problems.problem3090 import Problem3090
+from Problems.problem3096 import Problem3096
 from Problems.problem3100 import Problem3100
 from Problems.problem3101 import Problem3101
 from Problems.problem3110 import Problem3110
@@ -603,6 +606,7 @@ from Problems.problem3623 import Problem3623
 from Problems.problem3625 import Problem3625
 from Problems.problem3634 import Problem3634
 from Problems.problem3637 import Problem3637
+from Problems.problem3638 import Problem3638
 from Problems.problem3643 import Problem3643
 from Problems.problem3650 import Problem3650
 from Problems.problem3652 import Problem3652
@@ -1055,6 +1059,7 @@ __all__ = ['Problem1',
 'Problem2507',
 'Problem2515',
 'Problem2528',
+'Problem2530',
 'Problem2536',
 'Problem2537',
 'Problem2545',
@@ -1092,6 +1097,7 @@ __all__ = ['Problem1',
 'Problem2787',
 'Problem2798',
 'Problem2829',
+'Problem2833',
 'Problem2839',
 'Problem2840',
 'Problem2856',
@@ -1125,6 +1131,7 @@ __all__ = ['Problem1',
 'Problem3084',
 'Problem3085',
 'Problem3090',
+'Problem3096',
 'Problem3100',
 'Problem3101',
 'Problem3110',
@@ -1233,6 +1240,7 @@ __all__ = ['Problem1',
 'Problem3625',
 'Problem3634',
 'Problem3637',
+'Problem3638',
 'Problem3643',
 'Problem3650',
 'Problem3652',
