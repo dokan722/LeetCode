@@ -456,6 +456,7 @@
 #include "problem_2785.h"
 #include "problem_2787.h"
 #include "problem_2798.h"
+#include "problem_2806.h"
 #include "problem_2829.h"
 #include "problem_2833.h"
 #include "problem_2839.h"
