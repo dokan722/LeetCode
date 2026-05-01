@@ -72,6 +72,7 @@ from Problems.problem500 import Problem500
 from Problems.problem518 import Problem518
 from Problems.problem520 import Problem520
 from Problems.problem525 import Problem525
+from Problems.problem560 import Problem560
 from Problems.problem561 import Problem561
 from Problems.problem583 import Problem583
 from Problems.problem584 import Problem584
@@ -196,6 +197,7 @@ from Problems.problem1277 import Problem1277
 from Problems.problem1282 import Problem1282
 from Problems.problem1288 import Problem1288
 from Problems.problem1290 import Problem1290
+from Problems.problem1291 import Problem1291
 from Problems.problem1292 import Problem1292
 from Problems.problem1296 import Problem1296
 from Problems.problem1299 import Problem1299
@@ -713,6 +715,7 @@ __all__ = ['Problem1',
 'Problem518',
 'Problem520',
 'Problem525',
+'Problem560',
 'Problem561',
 'Problem583',
 'Problem584',
@@ -837,6 +840,7 @@ __all__ = ['Problem1',
 'Problem1282',
 'Problem1288',
 'Problem1290',
+'Problem1291',
 'Problem1292',
 'Problem1296',
 'Problem1299',
