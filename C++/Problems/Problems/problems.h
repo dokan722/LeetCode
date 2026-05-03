@@ -105,6 +105,7 @@
 #include "problem_788.h"
 #include "problem_791.h"
 #include "problem_795.h"
+#include "problem_796.h"
 #include "problem_799.h"
 #include "problem_808.h"
 #include "problem_812.h"
