@@ -472,6 +472,7 @@
 #include "problem_2749.h"
 #include "problem_2770.h"
 #include "problem_2779.h"
+#include "problem_2784.h"
 #include "problem_2785.h"
 #include "problem_2787.h"
 #include "problem_2798.h"
@@ -651,5 +652,6 @@
 #include "problem_3848.h"
 #include "problem_3861.h"
 #include "problem_3862.h"
+#include "problem_3868.h"
 
 #endif
