@@ -28,6 +28,7 @@ from Problems.problem122 import Problem122
 from Problems.problem123 import Problem123
 from Problems.problem136 import Problem136
 from Problems.problem153 import Problem153
+from Problems.problem154 import Problem154
 from Problems.problem165 import Problem165
 from Problems.problem166 import Problem166
 from Problems.problem167 import Problem167
@@ -78,6 +79,7 @@ from Problems.problem520 import Problem520
 from Problems.problem525 import Problem525
 from Problems.problem560 import Problem560
 from Problems.problem561 import Problem561
+from Problems.problem565 import Problem565
 from Problems.problem583 import Problem583
 from Problems.problem584 import Problem584
 from Problems.problem594 import Problem594
@@ -96,6 +98,7 @@ from Problems.problem693 import Problem693
 from Problems.problem696 import Problem696
 from Problems.problem709 import Problem709
 from Problems.problem712 import Problem712
+from Problems.problem713 import Problem713
 from Problems.problem714 import Problem714
 from Problems.problem717 import Problem717
 from Problems.problem735 import Problem735
@@ -274,6 +277,7 @@ from Problems.problem1630 import Problem1630
 from Problems.problem1642 import Problem1642
 from Problems.problem1647 import Problem1647
 from Problems.problem1653 import Problem1653
+from Problems.problem1657 import Problem1657
 from Problems.problem1663 import Problem1663
 from Problems.problem1664 import Problem1664
 from Problems.problem1665 import Problem1665
@@ -695,6 +699,7 @@ __all__ = ['Problem1',
 'Problem123',
 'Problem136',
 'Problem153',
+'Problem154',
 'Problem165',
 'Problem166',
 'Problem167',
@@ -745,6 +750,7 @@ __all__ = ['Problem1',
 'Problem525',
 'Problem560',
 'Problem561',
+'Problem565',
 'Problem583',
 'Problem584',
 'Problem594',
@@ -763,6 +769,7 @@ __all__ = ['Problem1',
 'Problem696',
 'Problem709',
 'Problem712',
+'Problem713',
 'Problem714',
 'Problem717',
 'Problem735',
@@ -941,6 +948,7 @@ __all__ = ['Problem1',
 'Problem1642',
 'Problem1647',
 'Problem1653',
+'Problem1657',
 'Problem1663',
 'Problem1664',
 'Problem1665',
