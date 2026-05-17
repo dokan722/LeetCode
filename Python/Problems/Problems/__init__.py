@@ -9,8 +9,10 @@ from Problems.problem12 import Problem12
 from Problems.problem36 import Problem36
 from Problems.problem37 import Problem37
 from Problems.problem42 import Problem42
+from Problems.problem45 import Problem45
 from Problems.problem48 import Problem48
 from Problems.problem49 import Problem49
+from Problems.problem55 import Problem55
 from Problems.problem56 import Problem56
 from Problems.problem61 import Problem61
 from Problems.problem62 import Problem62
@@ -680,8 +682,10 @@ __all__ = ['Problem1',
 'Problem36',
 'Problem37',
 'Problem42',
+'Problem45',
 'Problem48',
 'Problem49',
+'Problem55',
 'Problem56',
 'Problem61',
 'Problem62',
