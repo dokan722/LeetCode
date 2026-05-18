@@ -654,10 +654,12 @@
 #include "problem_3788.h"
 #include "problem_3804.h"
 #include "problem_3818.h"
+#include "problem_3839.h"
 #include "problem_3842.h"
 #include "problem_3848.h"
 #include "problem_3861.h"
 #include "problem_3862.h"
 #include "problem_3868.h"
+#include "problem_3895.h"
 
 #endif
