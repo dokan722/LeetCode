@@ -98,6 +98,7 @@
 #include "problem_717.h"
 #include "problem_735.h"
 #include "problem_739.h"
+#include "problem_740.h"
 #include "problem_744.h"
 #include "problem_746.h"
 #include "problem_757.h"
