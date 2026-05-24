@@ -213,6 +213,7 @@
 #include "problem_1317.h"
 #include "problem_1323.h"
 #include "problem_1339.h"
+#include "problem_1340.h"
 #include "problem_1344.h"
 #include "problem_1347.h"
 #include "problem_1351.h"
