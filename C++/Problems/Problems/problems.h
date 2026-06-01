@@ -387,6 +387,7 @@
 #include "problem_2138.h"
 #include "problem_2140.h"
 #include "problem_2141.h"
+#include "problem_2144.h"
 #include "problem_2147.h"
 #include "problem_2149.h"
 #include "problem_2154.h"
