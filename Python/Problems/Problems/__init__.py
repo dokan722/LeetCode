@@ -239,6 +239,7 @@ from Problems.problem1387 import Problem1387
 from Problems.problem1390 import Problem1390
 from Problems.problem1394 import Problem1394
 from Problems.problem1404 import Problem1404
+from Problems.problem1410 import Problem1410
 from Problems.problem1411 import Problem1411
 from Problems.problem1413 import Problem1413
 from Problems.problem1415 import Problem1415
@@ -667,6 +668,7 @@ from Problems.problem3623 import Problem3623
 from Problems.problem3625 import Problem3625
 from Problems.problem3633 import Problem3633
 from Problems.problem3634 import Problem3634
+from Problems.problem3635 import Problem3635
 from Problems.problem3637 import Problem3637
 from Problems.problem3638 import Problem3638
 from Problems.problem3643 import Problem3643
@@ -688,12 +690,14 @@ from Problems.problem3737 import Problem3737
 from Problems.problem3740 import Problem3740
 from Problems.problem3741 import Problem3741
 from Problems.problem3746 import Problem3746
+from Problems.problem3751 import Problem3751
 from Problems.problem3760 import Problem3760
 from Problems.problem3761 import Problem3761
 from Problems.problem3774 import Problem3774
 from Problems.problem3779 import Problem3779
 from Problems.problem3788 import Problem3788
 from Problems.problem3804 import Problem3804
+from Problems.problem3805 import Problem3805
 from Problems.problem3818 import Problem3818
 from Problems.problem3839 import Problem3839
 from Problems.problem3842 import Problem3842
@@ -942,6 +946,7 @@ __all__ = ['Problem1',
 'Problem1390',
 'Problem1394',
 'Problem1404',
+'Problem1410',
 'Problem1411',
 'Problem1413',
 'Problem1415',
@@ -1370,6 +1375,7 @@ __all__ = ['Problem1',
 'Problem3625',
 'Problem3633',
 'Problem3634',
+'Problem3635',
 'Problem3637',
 'Problem3638',
 'Problem3643',
@@ -1391,12 +1397,14 @@ __all__ = ['Problem1',
 'Problem3740',
 'Problem3741',
 'Problem3746',
+'Problem3751',
 'Problem3760',
 'Problem3761',
 'Problem3774',
 'Problem3779',
 'Problem3788',
 'Problem3804',
+'Problem3805',
 'Problem3818',
 'Problem3839',
 'Problem3842',
