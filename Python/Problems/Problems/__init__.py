@@ -355,6 +355,7 @@ from Problems.problem1927 import Problem1927
 from Problems.problem1929 import Problem1929
 from Problems.problem1930 import Problem1930
 from Problems.problem1935 import Problem1935
+from Problems.problem1936 import Problem1936
 from Problems.problem1942 import Problem1942
 from Problems.problem1953 import Problem1953
 from Problems.problem1957 import Problem1957
@@ -682,6 +683,7 @@ from Problems.problem3660 import Problem3660
 from Problems.problem3666 import Problem3666
 from Problems.problem3675 import Problem3675
 from Problems.problem3689 import Problem3689
+from Problems.problem3701 import Problem3701
 from Problems.problem3713 import Problem3713
 from Problems.problem3719 import Problem3719
 from Problems.problem3724 import Problem3724
@@ -1064,6 +1066,7 @@ __all__ = ['Problem1',
 'Problem1929',
 'Problem1930',
 'Problem1935',
+'Problem1936',
 'Problem1942',
 'Problem1953',
 'Problem1957',
@@ -1391,6 +1394,7 @@ __all__ = ['Problem1',
 'Problem3666',
 'Problem3675',
 'Problem3689',
+'Problem3701',
 'Problem3713',
 'Problem3719',
 'Problem3724',
