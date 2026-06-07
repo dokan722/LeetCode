@@ -182,6 +182,7 @@
 #include "problem_1051.h"
 #include "problem_1053.h"
 #include "problem_1089.h"
+#include "problem_1094.h"
 #include "problem_1108.h"
 #include "problem_1109.h"
 #include "problem_1128.h"
