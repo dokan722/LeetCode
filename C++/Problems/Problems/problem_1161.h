@@ -1,5 +1,5 @@
-#ifndef PROBLEMS_PROBLEM_2161_H
-#define PROBLEMS_PROBLEM_2161_H
+#ifndef PROBLEMS_PROBLEM_1161_H
+#define PROBLEMS_PROBLEM_1161_H
 
 #include "../problem.h"
 #include <string>
@@ -22,4 +22,4 @@ public:
     int maxLevelSum(TreeNode* root);
 };
 
-#endif //PROBLEMS_PROBLEM_2161_H
+#endif //PROBLEMS_PROBLEM_1161_H
