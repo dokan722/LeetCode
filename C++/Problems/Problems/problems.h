@@ -697,6 +697,7 @@
 #include "problem_3804.h"
 #include "problem_3805.h"
 #include "problem_3818.h"
+#include "problem_3838.h"
 #include "problem_3839.h"
 #include "problem_3842.h"
 #include "problem_3847.h"
