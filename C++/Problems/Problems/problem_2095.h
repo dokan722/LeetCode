@@ -1,5 +1,5 @@
-#ifndef PROBLEM_2130_H
-#define PROBLEM_2130_H
+#ifndef PROBLEM_2095_H
+#define PROBLEM_2095_H
 
 #include "../problem.h"
 #include <string>
@@ -7,7 +7,7 @@
 #include <algorithm>
 #include <stack>
 
-class problem_2130 : public problem {
+class problem_2095 : public problem {
     struct ListNode {
         int val;
         ListNode *next;
@@ -18,7 +18,7 @@ class problem_2130 : public problem {
 public:
     bool test() override;
 
-    int pairSum(ListNode* head);
+    ListNode* deleteMiddle(ListNode* head);
 };
 
-#endif //PROBLEM_2130_H
+#endif //PROBLEM_2095_H
