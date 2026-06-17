@@ -491,6 +491,7 @@
 #include "problem_2616.h"
 #include "problem_2640.h"
 #include "problem_2644.h"
+#include "problem_2645.h"
 #include "problem_2651.h"
 #include "problem_2654.h"
 #include "problem_2656.h"
@@ -712,5 +713,6 @@
 #include "problem_3862.h"
 #include "problem_3868.h"
 #include "problem_3895.h"
+#include "problem_3904.h"
 
 #endif
