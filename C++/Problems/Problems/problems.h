@@ -312,6 +312,7 @@
 #include "problem_1752.h"
 #include "problem_1753.h"
 #include "problem_1758.h"
+#include "problem_1759.h"
 #include "problem_1760.h"
 #include "problem_1769.h"
 #include "problem_1773.h"
@@ -728,5 +729,6 @@
 #include "problem_3895.h"
 #include "problem_3904.h"
 #include "problem_3917.h"
+#include "problem_3942.h"
 
 #endif
