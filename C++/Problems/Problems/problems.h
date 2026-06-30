@@ -517,6 +517,7 @@
 #include "problem_2706.h"
 #include "problem_2719.h"
 #include "problem_2730.h"
+#include "problem_2734.h"
 #include "problem_2749.h"
 #include "problem_2770.h"
 #include "problem_2779.h"
@@ -734,5 +735,6 @@
 #include "problem_3904.h"
 #include "problem_3917.h"
 #include "problem_3942.h"
+#include "problem_3976.h"
 
 #endif
