@@ -1,7 +1,7 @@
 from Problems import *
 import resources
 
-problem = Problem1395()
+problem = Problem274()
 
 if problem.test():
     print()
