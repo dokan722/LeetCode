@@ -780,6 +780,7 @@
 #include "problem_3842.h"
 #include "problem_3847.h"
 #include "problem_3848.h"
+#include "problem_3849.h"
 #include "problem_3856.h"
 #include "problem_3861.h"
 #include "problem_3862.h"
@@ -796,5 +797,6 @@
 #include "problem_3951.h"
 #include "problem_3968.h"
 #include "problem_3976.h"
+#include "problem_4001.h"
 
 #endif
