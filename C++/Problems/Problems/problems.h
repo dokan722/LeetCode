@@ -663,6 +663,7 @@
 #include "problem_3290.h"
 #include "problem_3300.h"
 #include "problem_3301.h"
+#include "problem_3302.h"
 #include "problem_3304.h"
 #include "problem_3307.h"
 #include "problem_3310.h"
@@ -807,6 +808,7 @@
 #include "problem_3951.h"
 #include "problem_3968.h"
 #include "problem_3976.h"
+#include "problem_3983.h"
 #include "problem_4001.h"
 
 #endif
