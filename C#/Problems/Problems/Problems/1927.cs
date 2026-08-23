@@ -43,7 +43,7 @@ namespace Problems.Problems
 
 
 
-            if ((q1 + q2) % 2 == 0 && 2 * Math.Abs(sum1 - sum2) == Math.Abs(q1 - q2) * 9)
+            if ((q1 + q2) % 2 == 0 && 2 * (sum1 - sum2) == (q2 - q1) * 9)
                 return false;
 
             return true;

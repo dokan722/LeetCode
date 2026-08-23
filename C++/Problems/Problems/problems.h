@@ -359,6 +359,7 @@
 #include "problem_1798.h"
 #include "problem_1807.h"
 #include "problem_1817.h"
+#include "problem_1829.h"
 #include "problem_1833.h"
 #include "problem_1839.h"
 #include "problem_1846.h"
