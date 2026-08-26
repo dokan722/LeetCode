@@ -593,6 +593,7 @@
 #include "problem_2875.h"
 #include "problem_2894.h"
 #include "problem_2895.h"
+#include "problem_2904.h"
 #include "problem_2905.h"
 #include "problem_2906.h"
 #include "problem_2909.h"
