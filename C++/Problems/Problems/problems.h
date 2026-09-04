@@ -824,6 +824,7 @@
 #include "problem_3876.h"
 #include "problem_3890.h"
 #include "problem_3895.h"
+#include "problem_3903.h"
 #include "problem_3904.h"
 #include "problem_3913.h"
 #include "problem_3917.h"
