@@ -835,6 +835,7 @@
 #include "problem_3976.h"
 #include "problem_3983.h"
 #include "problem_4001.h"
+#include "problem_4008.h"
 #include "problem_4025.h"
 
 #endif
