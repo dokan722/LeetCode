@@ -144,6 +144,7 @@
 #include "problem_825.h"
 #include "problem_826.h"
 #include "problem_835.h"
+#include "problem_836.h"
 #include "problem_837.h"
 #include "problem_838.h"
 #include "problem_840.h"
