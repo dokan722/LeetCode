@@ -304,6 +304,7 @@
 #include "problem_1529.h"
 #include "problem_1545.h"
 #include "problem_1546.h"
+#include "problem_1550.h"
 #include "problem_1551.h"
 #include "problem_1556.h"
 #include "problem_1561.h"
