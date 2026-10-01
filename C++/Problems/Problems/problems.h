@@ -212,6 +212,7 @@
 #include "problem_1094.h"
 #include "problem_1108.h"
 #include "problem_1109.h"
+#include "problem_1111.h"
 #include "problem_1128.h"
 #include "problem_1138.h"
 #include "problem_1139.h"

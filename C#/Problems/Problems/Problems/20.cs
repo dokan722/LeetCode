@@ -40,7 +40,7 @@ namespace Problems.Problems
                 }
             }
 
-            return true && !stack.Any();
+            return !stack.Any();
         }
     }
 }
