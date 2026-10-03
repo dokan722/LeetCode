@@ -7,6 +7,8 @@
 #include "problem_9.h"
 #include "problem_11.h"
 #include "problem_12.h"
+#include "problem_22.h"
+#include "problem_32.h"
 #include "problem_33.h"
 #include "problem_36.h"
 #include "problem_37.h"

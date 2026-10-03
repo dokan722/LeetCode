@@ -6,6 +6,8 @@ from Problems.problem5 import Problem5
 from Problems.problem9 import Problem9
 from Problems.problem11 import Problem11
 from Problems.problem12 import Problem12
+from Problems.problem22 import Problem22
+from Problems.problem32 import Problem32
 from Problems.problem33 import Problem33
 from Problems.problem36 import Problem36
 from Problems.problem37 import Problem37
@@ -876,6 +878,8 @@ __all__ = ['Problem1',
 'Problem9',
 'Problem11',
 'Problem12',
+'Problem22',
+'Problem32',
 'Problem33',
 'Problem36',
 'Problem37',
