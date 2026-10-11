@@ -585,6 +585,7 @@
 #include "problem_2734.h"
 #include "problem_2749.h"
 #include "problem_2770.h"
+#include "problem_2778.h"
 #include "problem_2779.h"
 #include "problem_2784.h"
 #include "problem_2785.h"
