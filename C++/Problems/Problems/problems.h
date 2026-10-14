@@ -805,6 +805,7 @@
 #include "problem_3713.h"
 #include "problem_3718.h"
 #include "problem_3719.h"
+#include "problem_3723.h"
 #include "problem_3724.h"
 #include "problem_3727.h"
 #include "problem_3731.h"
