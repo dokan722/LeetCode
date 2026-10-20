@@ -442,6 +442,7 @@
 #include "problem_2079.h"
 #include "problem_2081.h"
 #include "problem_2087.h"
+#include "problem_2089.h"
 #include "problem_2090.h"
 #include "problem_2092.h"
 #include "problem_2095.h"
