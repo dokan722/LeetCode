@@ -153,6 +153,7 @@
 #include "problem_840.h"
 #include "problem_841.h"
 #include "problem_848.h"
+#include "problem_849.h"
 #include "problem_856.h"
 #include "problem_859.h"
 #include "problem_865.h"
