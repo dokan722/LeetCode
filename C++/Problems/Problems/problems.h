@@ -237,6 +237,7 @@
 #include "problem_1247.h"
 #include "problem_1260.h"
 #include "problem_1266.h"
+#include "problem_1267.h"
 #include "problem_1276.h"
 #include "problem_1277.h"
 #include "problem_1282.h"
