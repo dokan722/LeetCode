@@ -698,6 +698,7 @@
 #include "problem_3274.h"
 #include "problem_3275.h"
 #include "problem_3281.h"
+#include "problem_3282.h"
 #include "problem_3285.h"
 #include "problem_3286.h"
 #include "problem_3289.h"
