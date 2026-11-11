@@ -832,6 +832,7 @@
 #include "problem_3781.h"
 #include "problem_3784.h"
 #include "problem_3788.h"
+#include "problem_3789.h"
 #include "problem_3804.h"
 #include "problem_3805.h"
 #include "problem_3818.h"
