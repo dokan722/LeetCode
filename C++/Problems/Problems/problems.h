@@ -655,6 +655,7 @@
 #include "problem_3096.h"
 #include "problem_3100.h"
 #include "problem_3101.h"
+#include "problem_3105.h"
 #include "problem_3110.h"
 #include "problem_3115.h"
 #include "problem_3120.h"
