@@ -515,6 +515,7 @@ from Problems.problem2264 import Problem2264
 from Problems.problem2270 import Problem2270
 from Problems.problem2273 import Problem2273
 from Problems.problem2274 import Problem2274
+from Problems.problem2275 import Problem2275
 from Problems.problem2279 import Problem2279
 from Problems.problem2287 import Problem2287
 from Problems.problem2294 import Problem2294
@@ -1404,6 +1405,7 @@ __all__ = ['Problem1',
 'Problem2270',
 'Problem2273',
 'Problem2274',
+'Problem2275',
 'Problem2279',
 'Problem2287',
 'Problem2294',

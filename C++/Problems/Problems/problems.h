@@ -501,6 +501,7 @@
 #include "problem_2270.h"
 #include "problem_2273.h"
 #include "problem_2274.h"
+#include "problem_2275.h"
 #include "problem_2279.h"
 #include "problem_2287.h"
 #include "problem_2294.h"
