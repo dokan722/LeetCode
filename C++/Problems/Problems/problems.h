@@ -310,6 +310,7 @@
 #include "problem_1525.h"
 #include "problem_1526.h"
 #include "problem_1529.h"
+#include "problem_1539.h"
 #include "problem_1541.h"
 #include "problem_1545.h"
 #include "problem_1546.h"
